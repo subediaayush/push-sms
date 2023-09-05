@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">Sms Push</string>
+	<string name="title_activity_number_list">NumberListActivity</string>
+</resources>

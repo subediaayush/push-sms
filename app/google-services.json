@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599806700733",
+    "project_id": "sms-push-d6fd9",
+    "storage_bucket": "sms-push-d6fd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599806700733:android:f7f220564d664deb289bd4",
+        "android_client_info": {
+          "package_name": "com.thehedgelog.smspush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599806700733-5ndkl7hmrm3bm8hd7runb0pp5ehpud0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-ZSIv3z5zhM38A9GFIxhEOARhPMKCcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599806700733-5ndkl7hmrm3bm8hd7runb0pp5ehpud0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
